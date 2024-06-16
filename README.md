@@ -1,5 +1,3 @@
-# nodeHealth
-
 # Node Health Check Script for EC2 Instance
 
 ## Overview
